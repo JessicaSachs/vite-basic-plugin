@@ -1,0 +1,15 @@
+{
+  "name": "vite-basic-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node": "node vite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "0.15.5"
+  }
+}
