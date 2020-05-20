@@ -1,5 +1,5 @@
 const { createServer } = require('vite')
 
 createServer({
-  plugins: [require('./myPlugin.js')]
+  configureServer: [require('./myPlugin.js')]
 }).listen(3000)
